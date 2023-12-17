@@ -1,0 +1,8 @@
+Microsoft Windows 1.01
+Released in 1985 by Microsoft
+For IBM PCs running DOS
+
+These are original, unmodified disk images, and have been verified by 
+several sources.
+
+Contributed thanks to ibmpc5150.
